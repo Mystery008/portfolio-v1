@@ -15,7 +15,7 @@ export function ProjectsSection() {
         <SectionHeading
           index="04"
           eyebrow="Projects"
-          title="Case studies recruiters can scan"
+          title="What I've Built and Learned"
         />
 
         <Reveal>
