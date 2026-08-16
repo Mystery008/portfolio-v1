@@ -55,8 +55,7 @@ export function ContactSection() {
                 </p>
                 <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
                   Entry-level and junior roles in AI/ML engineering, data
-                  engineering, and software engineering. Happy to discuss
-                  internships, graduate programmes, or full-time positions.
+                  engineering, and software engineering. Happy to discuss graduate programmes or full-time positions.
                 </p>
               </div>
             </Reveal>

@@ -215,7 +215,7 @@ export const certifications = [
     year: 'July 2026',
   },
   {
-    title: 'Certified AI Foundations Associate',
+    title: 'AI Foundations Associate',
     issuer: 'Oracle Certified',
     year: 'Aug 2025',
   },
