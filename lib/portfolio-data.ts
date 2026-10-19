@@ -84,13 +84,13 @@ export const skillGroups = [
 
 export const experience = [
   {
-    role: 'Software Engineer Trainee',
+    role: 'Associate Software Engineer',
     company: 'Impero IT Services Pvt. Ltd.',
     type: 'Full-time Employee',
     period: 'Jul 2026 – Present',
     location: 'Ahmedabad, Gujarat, India · On-site',
     points: [
-      'Retained as a full-time Software Engineer Trainee after completing my 6-month internship at the same company.',
+      'Retained as a full-time Associate Software Engineer after completing my 6-month internship at the same company.',
       'Contributing to development tasks, participating in team sprints, and applying what I built during the internship in a live environment.',
       'Working alongside senior engineers — learning from code reviews, design discussions, and day-to-day engineering decisions.',
     ],
