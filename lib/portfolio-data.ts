@@ -7,7 +7,7 @@ export const profile = {
   linkedin: 'https://www.linkedin.com/in/nidhitank008/',
   headline: 'Computer Engineering graduate with hands-on experience in AI/ML and software engineering.',
   summary:
-    'Computer Engineering graduate with experience in AI/ML, Python development, and MLOps through internships and personal projects. Currently working as a Software Engineer Trainee and interested in building practical machine learning applications and software solutions.',
+    'Computer Engineering graduate with experience in AI/ML, Python development, and MLOps through internships and personal projects. Currently working as a an Associate Software Engineer and interested in building practical machine learning applications and software solutions.',
 }
 
 export const proofPoints = [
